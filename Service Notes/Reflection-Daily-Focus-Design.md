@@ -39,10 +39,6 @@ Founding value through early user insights:
 
 - That will be the basic flow for the MVP, and then the PLA from there.
 
-## Technical Frameworks
+## JTBD - User Job To Be Done
 
-- "One-Person Problem" test: is this helping one person with one specific need?
-- "Jobs to Be Done": what actual change are they trying to make? (g. remember their project every day)
-- "Speed Bump" to habit: Lower the friction to reflect or plan capture -- make it part of their day.
-
-- JTBD & MVP applied to user types as structuring tools for market problems.
+> "When I'm overwhelmed or doubting myself, I want a quick reminder that progress comes from showing up daily even just thinking about my dream -- so I can keep building momentum and not give up."
