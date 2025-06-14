@@ -24,6 +24,8 @@ Set that intencion as today's compass action.
 
 Tool: You can use a checklist, task tracker, or journal entry here.
 
+[Weekly Review Link: Minimum Gold Weekly Review](https://github.com/giovannilucastefano/MinDaimon/blob/main/Personal-System/Minimum-Gold-Weekly-Review.md)
+
 ## EVENING - Reflect [Win ,Lesson, Adjustment]
 1. Did I act like my best self today?
 [2. Where did I drift? Why? How can I improve tomorrow?]
