@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GitHub 1.md",
+                "file": "Service Notes/index_updater.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GitHub 1"
+              "title": "index_updater"
             }
           }
         ]
@@ -167,6 +167,8 @@
   },
   "active": "659d5b937679d4ce",
   "lastOpenFiles": [
+    "GitHub 1.md",
+    "Service Notes/index_updater.md",
     "Service Notes/index.md",
     "Recap MacOS App 11.6.25.md",
     "Untitled.md",
