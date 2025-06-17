@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Service Notes/index.md",
+                "file": "GitHub 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "GitHub 1"
             }
           }
         ]
@@ -165,8 +165,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "84ef89449eb77700",
+  "active": "659d5b937679d4ce",
   "lastOpenFiles": [
+    "Service Notes/index.md",
     "Recap MacOS App 11.6.25.md",
     "Untitled.md",
     "Prototipe Today 11.6.25.md",
