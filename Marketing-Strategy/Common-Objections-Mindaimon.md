@@ -27,7 +27,7 @@ Field feedback for possible objections when introducing the Mindaimon framework,
 … Fear of a learning curve or confusion around using AI tools.
 
  3. “Ive tried productivity tools before and they didn’t work.”
-(�� Skepticism from past disappointments or tool fatigue.
+(�� Skepticism from past disappointments or tool fatigue.
 
  4. “I&not even clear on my goals yet, so this won’t help..”
 … Lack of clarity can make people feel unready for structured tools.
