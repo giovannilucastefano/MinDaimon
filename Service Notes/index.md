@@ -18,6 +18,7 @@
 - **Prototipe Today 11.6.25** (MinDaimon/Prototipe Today 11.6.25.md)
 - **Recap MacOS App 11.6.25** (MinDaimon/Recap MacOS App 11.6.25.md)
 - **Brain-Dump-Assistant-Instructions** (MinDaimon/Service Notes/Brain-Dump-Assistant-Instructions.md)
+- **Case-1-Overwhelmed-Problem-Thinker** (MinDaimon/Service Notes/Case-1-Overwhelmed-Problem-Thinker.md)
 - **create_index** (MinDaimon/Service Notes/create_index.md)
 - **GitHub** (MinDaimon/Service Notes/GitHub.md)
 - **index_updater** (MinDaimon/Service Notes/index_updater.md)
