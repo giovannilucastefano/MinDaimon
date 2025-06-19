@@ -15,6 +15,7 @@
 - **Common-Objections-Mindaimon** (MinDaimon/Marketing-Strategy/Common-Objections-Mindaimon.md)
 - **Mindaimon-Strategy-Recap** (MinDaimon/Marketing-Strategy/Mindaimon-Strategy-Recap.md)
 - **Next-Steps-and-GoToMarket-Plan** (MinDaimon/Marketing-Strategy/Next-Steps-and-GoToMarket-Plan.md)
+- **Success-Factors-in-AI-Era** (MinDaimon/Personal-Development/Success-Factors-in-AI-Era.md)
 - **Minimum-Gold-Daily-Tracker** (MinDaimon/Personal-System/Minimum-Gold-Daily-Tracker.md)
 - **Minimum-Gold-Weekly-Review** (MinDaimon/Personal-System/Minimum-Gold-Weekly-Review.md)
 - **B2C-Assistant-Integration-Concept** (MinDaimon/Product Strategy/B2C-Assistant-Integration-Concept.md)
