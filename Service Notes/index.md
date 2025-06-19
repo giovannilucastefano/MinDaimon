@@ -4,6 +4,7 @@
 - **Brain-API-Conversation** (MinDaimon/AI-Agents/Brain-API-Conversation.md)
 - **Minimum-Gold-Agent** (MinDaimon/AI-Agents/Minimum-Gold-Agent.md)
 - **Wow-Moments-List** (MinDaimon/Business-Ideas/Wow-Moments-List.md)
+- **AI-Content-Workflow** (MinDaimon/Business-Operations/AI-Content-Workflow.md)
 - **2025-06-15-Morning-Clarity** (MinDaimon/Daily Clarity Logs/2025-06-15-Morning-Clarity.md)
 - **VTO-MinDaimon** (MinDaimon/EOS-System/VTO-MinDaimon.md)
 - **GitHub 1** (MinDaimon/GitHub 1.md)
