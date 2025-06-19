@@ -11,10 +11,14 @@
             "id": "a18dba15f2203e1d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Service Notes/last_added_notes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "last_added_notes"
             }
           }
         ]
