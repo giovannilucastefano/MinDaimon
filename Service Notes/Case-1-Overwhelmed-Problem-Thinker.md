@@ -25,10 +25,16 @@ tags:
 
 Please write down a thought or situation that feels stuck. Then answer the following reflective questions:
 
- 1. What part of this situation is actually under your control today?
- 2. Are you spending more energy explaining the problem or experimenting with solutions?
- 3. If you had to act like the solution was possible, what would you try first?
- 4. What is one emotionally uncomfortable step that you know could make the most progress?
- 5. What are you afraid might happen if you tried and it didn't work? Is that fear real or assumed?
+ 1. What part of this situation is actually under my control today?
+ 2. Am I spending more time explaining the problem or testing solutions?
+ 3. If I had to act like the solution was possible, what would I try first?
+4. Which action feels the most emotionally uncomfortable--but might unlock real progress?
+5. What am I afraid might happen if I try and it doesn't work? Is that fear real or untested?
+6. How can I rephrase this issue to better see solutions?
+ 7. Is this about them not giving what I want--or about me not increasing my value so they want to?
+8. If I dig deeper, is the core problem technical (e.g., taxes) or emotional (e.g., fear of not being enough)?
+9. What is the one thing that, if acchieved, would make everything else easier or unnecessary?
+ 10. Do I already know the solution---but I'm hesitating because I'm not yet willing to pay the emotional or strategic price?
 
- Remember: often, the most effective solution is the one that feels the hardest emotionally.
+ **Insight**
+ Remember: often, the most effective solution is the one we most resist the most. That's where transformation begins.
