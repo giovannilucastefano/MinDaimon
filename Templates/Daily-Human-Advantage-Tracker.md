@@ -24,7 +24,7 @@ G_Did I make someone feel seen or heard today? Listen empathetically?
 
 ** 2. Execution Under Uncertainty **
 G_Did I act decisively despite fear?
-( ¥  Note:
+(ï¿½ï¿½  Note:
 
 ** 3. Original Insight & Pattern Recognition **
 G_Did I connect ideas in a new way or question a default? 
@@ -32,11 +32,11 @@ G_Did I connect ideas in a new way or question a default?
 
 ** 4. Deep Work & Focus **
 G_Did I enter flow or undertake one focused work block?
-( ¥  Note:
+(ï¿½ï¿½  Note:
 
 ** 5. Self-Mastery & Energy Management **
 G_Did I move, rest, or manage my energy wisely?
-( ¥  Note:
+(ï¿½ï¿½  Note:
 
 ** 6. Tribe & Community Creation **
 G_Did I nurture connection, collaboration, or shared purpose?

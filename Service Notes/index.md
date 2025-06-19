@@ -28,5 +28,6 @@
 - **GitHub** (MinDaimon/Service Notes/GitHub.md)
 - **index_updater** (MinDaimon/Service Notes/index_updater.md)
 - **index** (MinDaimon/Service Notes/index.md)
+- **Daily-Human-Advantage-Tracker** (MinDaimon/Templates/Daily-Human-Advantage-Tracker.md)
 - **13.6.25 Planning Work** (MinDaimon/Z_Archive/13.6.25 Planning Work.md)
 - **Brain-Dump-Assistant-Instructions** (MinDaimon/Z_Archive/Brain-Dump-Assistant-Instructions.md)
