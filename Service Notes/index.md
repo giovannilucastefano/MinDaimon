@@ -23,6 +23,7 @@
 - **GitHub** (MinDaimon/Service Notes/GitHub.md)
 - **index_updater** (MinDaimon/Service Notes/index_updater.md)
 - **index** (MinDaimon/Service Notes/index.md)
+- **last_added_notes** (MinDaimon/Service Notes/last_added_notes.md)
 - **Reflection-AI-Driven-Leader-Quote** (MinDaimon/Service Notes/Reflection-AI-Driven-Leader-Quote.md)
 - **Reflection-Daily-Focus-Design** (MinDaimon/Service Notes/Reflection-Daily-Focus-Design.md)
 - **Remote-Job-Onboarding-Scripts** (MinDaimon/Service Notes/Remote-Job-Onboarding-Scripts.md)

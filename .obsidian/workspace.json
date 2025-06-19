@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cae9f09f76df9199",
+        "id": "cc3ca3372493d580",
         "type": "tabs",
         "children": [
           {
-            "id": "659d5b937679d4ce",
+            "id": "a18dba15f2203e1d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Service Notes/index_updater.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "index_updater"
+              "title": "New tab"
             }
           }
         ]
@@ -165,8 +161,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "659d5b937679d4ce",
+  "active": "a18dba15f2203e1d",
   "lastOpenFiles": [
+    "Service Notes/last_added_notes.md",
+    "Service Notes/Untitled.md",
+    "Service Notes/index_updater.md",
     "Service Notes/Case-1-Overwhelmed-Problem-Thinker.md",
     "Business-Operations/AI-Content-Workflow.md",
     "Business-Operations",
@@ -177,7 +176,6 @@
     "Marketing-Strategy/Common-Objections-Mindaimon.md",
     "Marketing-Strategy",
     "GitHub 1.md",
-    "Service Notes/index_updater.md",
     "Service Notes/index.md",
     "Recap MacOS App 11.6.25.md",
     "Untitled.md",
