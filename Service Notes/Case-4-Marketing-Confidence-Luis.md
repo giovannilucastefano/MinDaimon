@@ -39,3 +39,16 @@ Luis is exploring website development (WordPress) and online marketing, but he h
 8. What would I tell someone else in my exact situation now?
 2. What’s one low-stakes offer I could make to help someone this week-— no pressure, just service?
 1.0 Am I waiting to feel “readya“--or should action itself make me feel more ready?
+
+
+
+---
+
+11. Can you help me find someone who was recently in a similar position to me—learning marketing, lacking confidence, unsure about freelancing—but who has now made progress and found clients? I’d like to study their path and maybe reach out as a mentor or inspiration.
+
+
+---
+
+This prompt works beautifully in ChatGPT, LinkedIn searches, or even platforms like IndieHackers or Twitter.
+
+

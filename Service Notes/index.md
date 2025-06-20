@@ -25,6 +25,7 @@
 - **Remote-Job-Onboarding-Scripts** (MinDaimon/Reflections/Remote-Job-Onboarding-Scripts.md)
 - **Smooth Operator Heroic Identity** (MinDaimon/Reflections/Smooth Operator Heroic Identity.md)
 - **Case-4-Marketing-Confidence-Luis** (MinDaimon/Service Notes/Case-4-Marketing-Confidence-Luis.md)
+- **Case-4-Marketing-Confidence-Shift** (MinDaimon/Service Notes/Case-4-Marketing-Confidence-Shift.md)
 - **create_index** (MinDaimon/Service Notes/create_index.md)
 - **GitHub** (MinDaimon/Service Notes/GitHub.md)
 - **index_updater** (MinDaimon/Service Notes/index_updater.md)
