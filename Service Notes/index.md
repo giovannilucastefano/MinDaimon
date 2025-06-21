@@ -12,6 +12,7 @@
 - **Case-3-Post-Success-Paralysis** (MinDaimon/Case Studies/Event 18.6.25/Case-3-Post-Success-Paralysis.md)
 - **Case-4-Marketing-Confidence-Luis** (MinDaimon/Case Studies/Event 18.6.25/Case-4-Marketing-Confidence-Luis.md)
 - **Case-4-Marketing-Confidence-Shift** (MinDaimon/Case Studies/Event 18.6.25/Case-4-Marketing-Confidence-Shift.md)
+- **Daily-Identity-Reflection** (MinDaimon/Coaching-Tools/Daily-Identity-Reflection.md)
 - **2025-06-15-Morning-Clarity** (MinDaimon/Daily Clarity Logs/2025-06-15-Morning-Clarity.md)
 - **VTO-MinDaimon** (MinDaimon/EOS-System/VTO-MinDaimon.md)
 - **Common-Objections-Mindaimon** (MinDaimon/Marketing-Strategy/Common-Objections-Mindaimon.md)
