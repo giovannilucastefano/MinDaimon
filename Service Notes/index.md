@@ -24,6 +24,7 @@
 - **Minimum-Gold-Weekly-Review** (MinDaimon/Personal-System/Minimum-Gold-Weekly-Review.md)
 - **B2C-Assistant-Integration-Concept** (MinDaimon/Product Strategy/B2C-Assistant-Integration-Concept.md)
 - **Remote-Career-Framework-Draft1-June2025** (MinDaimon/Productivity-Frameworks/Remote-Career-Framework-Draft1-June2025.md)
+- **2025-06-25-journaling-first-entry** (MinDaimon/Reflections/2025-06-25-journaling-first-entry.md)
 - **Reflection-AI-Driven-Leader-Quote** (MinDaimon/Reflections/Reflection-AI-Driven-Leader-Quote.md)
 - **Reflection-Daily-Focus-Design** (MinDaimon/Reflections/Reflection-Daily-Focus-Design.md)
 - **Remote-Job-Onboarding-Scripts** (MinDaimon/Reflections/Remote-Job-Onboarding-Scripts.md)
