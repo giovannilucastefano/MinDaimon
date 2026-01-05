@@ -30,9 +30,21 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.10.3"
             }
+          },
+          {
+            "id": "f7d0804fc0920cc6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -177,7 +189,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f3ccf30cf1cc1ed",
+  "active": "f7d0804fc0920cc6",
   "lastOpenFiles": [
     "Reflections/2025-06-25-journaling-first-entry.md",
     "Coaching-Tools/Transformative-Identity-Shift.md",
